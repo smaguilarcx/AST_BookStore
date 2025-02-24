@@ -6,9 +6,9 @@
   "scripts": {
     "test": "node .\\app.js"
   },
-  "dependencies":{
-  "marked": "0.3.9",
-  "mongodb": "2.2.36"
+  "dependencies": {
+    "marked": "4.0.10",
+    "mongodb": "3.1.13"
   },
   "repository": {
     "type": "git",
